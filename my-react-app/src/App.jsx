@@ -1,17 +1,11 @@
 import './style.css'
-import FormContainer from './components/FormContainer';
-import ListContainer from './components/ListContainer';
-import HeaderContainer from './components/HeaderContainer';
-
-
+import StudentPage from './pages/StudentPage';
 function App() {
   
 
   return (
     <>
-      <HeaderContainer />
-      <FormContainer />
-      <ListContainer />
+      <StudentPage />
     </>
   )
 }

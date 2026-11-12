@@ -12,7 +12,7 @@ const FormContainer = () => {
                 <input type="text" name="program" id="program"></input>
             </div>
             <div> 
-                <button type="submit">ADD STUDENT</button>
+                 <button type="submit">ADD STUDENT</button>
             </div>
         </form>
         </section>
